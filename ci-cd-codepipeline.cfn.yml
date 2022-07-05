@@ -40,7 +40,7 @@ Parameters:
 
   GitHubUser:
     Type: String
-    Default: Neelima007
+    Default: SudKul
     Description: GitHub username or organization
     MinLength: 3
     MaxLength: 100
